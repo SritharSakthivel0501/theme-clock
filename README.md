@@ -1,3 +1,3 @@
 # theme-clock
 
-Your site is live at https://srithardckap.github.io/theme-clock/
+Your site is live at https://sritharsakthivel0501.github.io/theme-clock/
